@@ -86,6 +86,7 @@ void Hobby()
         back();
     }
 }
+
 void Friends()
 {
     while (1)
